@@ -2,10 +2,9 @@
 received unauthorized aid on this assignment */
 
 /*
- * CDA 5155: Fall 2017
- * Project 1
+ * C_D_A 5_1_5_5: F_a_l_l 2_0_1_7
+ * P_r_o_j_e_c_t 1
  * Jeffrey Wood
- * UFID: 6107 1913
  * MIPS simulator
  */
 import java.io.BufferedReader;
